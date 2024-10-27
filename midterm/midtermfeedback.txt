@@ -1,0 +1,3 @@
+Small errors on FEV, distance. Watch when the values are floats.
+Invalid DYSPNEA mapping
+Results in errors in data.
