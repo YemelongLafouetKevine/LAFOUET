@@ -23,4 +23,5 @@ This project allowed me to uncover national hospital trends and turn raw data in
 
 
 ##  Dashboard link
-https://public.tableau.com/app/profile/lafouet.kevine.yemelong3214/viz/mine_17614390447550/Dashboard3?publish=yes
+https://public.tableau.com/app/profile/lafouet.kevine.yemelong3214/viz/U_S_HospitalQualityResourceDashboardCMS2025/Dashboard3
+
